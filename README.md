@@ -6,3 +6,5 @@ Future Add-ons:
 * 		Multiplayer Mode: Integrate a multiplayer feature to allow users to compete against each other
 * 		Enhanced Graphics and Animation: Improve the visual appeal with advanced graphics and animation to create a more captivating and realistic gaming atmosphere.
 * 		Machine Learning Opponents: Implement machine learning algorithms to create intelligent virtual opponents, providing users with a more challenging and dynamic gaming experience.
+
+Technologies Used: Python, Flask, HTML, CSS, JavaScript
